@@ -20,7 +20,6 @@ class Pen:
             Egg()
         else:
             Chicken()
-
-            
-Pen()
+if __name__ == "__main__":
+    Pen()
 
