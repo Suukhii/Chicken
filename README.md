@@ -1,4 +1,4 @@
-# Chicken and Egg Simulation
+# Chicken and Egg Simulation 🐔
 
 This Python code simulates the age-old question of which came first, the chicken or the egg. It defines three classes: `Chicken`, `Egg`, and `Pen`. The `Chicken` class represents a chicken, the `Egg` class represents an egg, and the `Pen` class simulates a pen where either an egg or a chicken is created randomly. The code demonstrates the process of hatching eggs and creating chickens.
 
